@@ -15,14 +15,14 @@ import {
 
 export const PERSONAL_INFO: PersonalInfo = {
   name: "Himanshu Yadav",
-  role: "Software Developer | AI Engineer | Analyst",
+  role: "Software Developer | AI Engineer | Data Scientist | Analyst",
   tagline: "Final Year Undergraduate at IIT Kanpur building intelligent systems and scalable solutions.",
   email: "yhimanshu22@iitk.ac.in",
   phone: "+91 8114245060",
   location: "Kanpur, India",
   socials: {
     github: "https://github.com/yhimanshu22",
-    linkedin: "https://linkedin.com/in/himanshuyadav",
+    linkedin: "https://www.linkedin.com/in/yhimanshu22045/",
     medium: "https://medium.com/@yhimanshu22",
     youtube: "https://youtube.com/channel/UCsqGxVG1iCtFwwLn1ZWqb-A"
   }
