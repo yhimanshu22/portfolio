@@ -55,7 +55,7 @@ export const PROJECTS: ProjectItem[] = [
     title: "Stock Screener Agentic AI",
     tags: ["AI Agents", "LangGraph", "YFinance", "Ollama"],
     description: "A real-time stock analysis tool using YFinance API and LangGraph. Integrated Qwen models via Ollama to generate structured, human-readable financial insights and risk assessments from raw market data.",
-    link: "#"
+    link: "https://stockscreeneragent.vercel.app/"
   },
   {
     title: "Goldman Sachs Risk Job Simulation",
@@ -67,31 +67,31 @@ export const PROJECTS: ProjectItem[] = [
     title: "Customer Segmentation & Credit Risk",
     tags: ["Data Science", "K-means", "PCA", "Credit Scoring"],
     description: "Implemented K-means clustering and PCA to segment customers based on spending behavior. Developed a credit scoring system using WOE binning and ROC curves to calculate optimal loan approval thresholds.",
-    link: "#"
+    link: "https://github.com/yhimanshu22/Customer-Segmentation-and-Credit-Risk-Modelling"
   },
   {
     title: "JustWrite AI Blogging Platform",
     tags: ["Full Stack", "Hono", "Prisma", "Gemini API"],
     description: "A scalable blogging platform using Hono for the backend and Cloudflare workers. Integrated Gemini API for AI-assisted blog generation and Prisma for efficient data management.",
-    link: "#"
+    link: "https://justwrite-f8o6qtdyw-yhimanshu220456.vercel.app/"
   },
   {
     title: "Feedback Taker Application",
     tags: ["Next.js", "Resend", "Gemini AI", "Zod"],
     description: "Anonymous feedback collection app with AI-suggested questions. Features email authentication via Resend, Zod validation, and a centralized dashboard.",
-    link: "#"
+    link: "https://feedback-taker.vercel.app/sign-in"
   },
   {
     title: "Movie Recommendation System",
     tags: ["Data Science", "TF-IDF", "Streamlit"],
     description: "Content-based recommender system for 5,000+ movies using cosine similarity. Optimized preprocessing pipeline reducing runtime by 20% and deployed an interactive Streamlit app.",
-    link: "#"
+    link: "https://github.com/yhimanshu22/movie_recommendation"
   },
   {
     title: "Blood Bank Management System",
     tags: ["MERN Stack", "Analytics", "Auth"],
     description: "Full-stack inventory management system with secure authentication, real-time notifications (Toast), and an analytics dashboard for donation monitoring.",
-    link: "#"
+    link: "https://blood-bank-henna.vercel.app/landing-page"
   },
   {
     title: "NLP Translation Models",
